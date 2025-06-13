@@ -1,0 +1,12 @@
+background
+dolphinrc
+pavucontrol.ini
+systemd/
+pulse/
+go/
+dconf/
+cava/
+gtk-3.0
+htop/
+trashrc
+
