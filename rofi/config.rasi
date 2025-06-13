@@ -1,0 +1,33 @@
+configuration{
+    modi: "run,drun,window";
+    icon-theme: "Oranchelo";
+    show-icons: true;
+    terminal: "foot";
+    drun-display-format: "{icon} {name}";
+    location: 0;
+    disable-history: false;
+    hide-scrollbar: true;
+    display-drun: "   Apps ";
+    display-run: "   Run ";
+    display-window: " 﩯  Window";
+    display-Network: " 󰤨  Network";
+    sidebar-mode: true;
+}
+
+
+#window {
+    border:  2px;
+    border-color: #11111b;
+}
+
+//@theme "/usr/share/rofi/themes/material.rasi"
+
+//@theme "/usr/share/rofi/themes/purple.rasi"
+
+//@theme "/usr/share/rofi/themes/material.rasi"
+
+//@theme "/usr/share/rofi/themes/tokyonight.rasi"
+
+//@theme "/usr/share/rofi/themes/tokyonight_big2.rasi"
+
+@theme "/usr/share/rofi/themes/tokyonight_big1.rasi"

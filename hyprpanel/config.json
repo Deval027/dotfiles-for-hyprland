@@ -1,0 +1,28 @@
+{
+  "bar.customModules.storage.paths": [
+    "/"
+  ],
+  "theme.font.size": "0.7rem",
+  "menus.clock.time.hideSeconds": true,
+  "menus.clock.time.military": true,
+  "theme.matugen": true,
+  "wallpaper.image": "/home/skyland/.config/hypr/wallpapers/old.png",
+  "theme.matugen_settings.mode": "dark",
+  "theme.matugen_settings.scheme_type": "tonal-spot",
+  "theme.matugen_settings.variation": "monochrome_1",
+  "menus.dashboard.shortcuts.left.shortcut1.command": "firefox",
+  "menus.dashboard.shortcuts.left.shortcut1.tooltip": "Firefox ",
+  "menus.dashboard.shortcuts.left.shortcut1.icon": "󰈹",
+  "menus.dashboard.shortcuts.left.shortcut2.command": "spotify",
+  "menus.dashboard.shortcuts.left.shortcut3.tooltip": "Neovim",
+  "menus.dashboard.shortcuts.left.shortcut3.command": "nvim",
+  "menus.dashboard.shortcuts.left.shortcut3.icon": "",
+  "bar.customModules.worldclock.format": "%I:%M:%S %p %Z",
+  "bar.customModules.worldclock.formatDiffDate": "%a %b %d  %I:%M:%S %p %Z",
+  "theme.bar.buttons.modules.hyprsunset.enableBorder": false,
+  "bar.network.label": false,
+  "bar.network.showWifiInfo": false,
+  "bar.clock.format": "%a %b %d  %I:%M %p",
+  "bar.notifications.show_total": false,
+  "wallpaper.enable": false
+}
